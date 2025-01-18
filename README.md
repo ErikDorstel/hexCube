@@ -23,6 +23,6 @@ ESP32 based 5x16x16 RGB Matrix Cube
 * GPIO 17 - SCK
 * GPIO 18 - WS
 #### Schematic
-![IMAGE ALT TEXT HERE](documentation/glowCube.png)
+![IMAGE ALT TEXT HERE](documentation/hexCube.png)
 #### LED orientation
 ![IMAGE ALT TEXT HERE](documentation/led_orientation.png)
