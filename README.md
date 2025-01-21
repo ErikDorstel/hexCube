@@ -26,5 +26,7 @@ ESP32 based 5x16x16 RGB Matrix Cube
 ![IMAGE ALT TEXT HERE](documentation/hexCube_a.png)
 #### Schematic
 ![IMAGE ALT TEXT HERE](documentation/hexCube.png)
+#### Matrix orientation
+![IMAGE ALT TEXT HERE](documentation/matrix_orientation.png)
 #### LED orientation
 ![IMAGE ALT TEXT HERE](documentation/led_orientation.png)
