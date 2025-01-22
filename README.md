@@ -10,11 +10,11 @@ ESP32 based 5x16x16 RGB Matrix Cube
 * mDNS hostname glowcube.local
 * DNS hostname glowcube.local (WLAN AP mode only)
 #### GPIO LED Matrix
-* GPIO 25 - 8x8 Matrix 0
-* GPIO 26 - 8x8 Matrix 1
-* GPIO 27 - 8x8 Matrix 2
-* GPIO 32 - 8x8 Matrix 3
-* GPIO 33 - 8x8 Matrix 4
+* GPIO 25 - 16x16 Matrix 0
+* GPIO 26 - 16x16 Matrix 1
+* GPIO 27 - 16x16 Matrix 2
+* GPIO 32 - 16x16 Matrix 3
+* GPIO 33 - 16x16 Matrix 4
 #### GPIO MPU6050 (I2C)
 * GPIO 21 - SDA
 * GPIO 22 - SCL
