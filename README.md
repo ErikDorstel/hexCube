@@ -7,8 +7,8 @@ ESP32 based 5x16x16 RGB Matrix Cube
 * controllable via WebUI
 * works as WLAN client and AP (AP chooser included)
 * WebUI with IP address 192.168.4.1
-* mDNS hostname glowcube.local
-* DNS hostname glowcube.local (WLAN AP mode only)
+* mDNS hostname hexCube.local
+* DNS hostname hexCube.local (WLAN AP mode only)
 #### GPIO LED Matrix
 * GPIO 25 - 16x16 Matrix 0
 * GPIO 26 - 16x16 Matrix 1
