@@ -24,6 +24,8 @@ ESP32 based 5x16x16 RGB Matrix Cube
 * GPIO 18 - WS
 #### Development Hardware
 ![IMAGE ALT TEXT HERE](documentation/hexCube_a.png)
+#### Web UI
+![IMAGE ALT TEXT HERE](documentation/webui.png)
 #### Schematic
 ![IMAGE ALT TEXT HERE](documentation/hexCube.png)
 #### Matrix orientation
