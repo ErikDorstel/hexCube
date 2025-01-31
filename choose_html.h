@@ -2,7 +2,7 @@ const char *choose_html=R"(
 
 <!DOCTYPE html>
 <html lang="en"><head>
-<title>glowCube</title>
+<title>hexCube</title>
 <meta name="author" content="Erik Dorstel">
 <meta name="generator" content="vi">
 <meta name="repository" content="https://github.com/ErikDorstel/hexCube">
