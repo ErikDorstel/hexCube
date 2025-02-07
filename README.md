@@ -23,7 +23,7 @@ ESP32 based 5x16x16 RGB Matrix Cube
 * GPIO 17 - SCK
 * GPIO 18 - WS
 #### Development Hardware
-[Example Video](https://www.youtube.com/watch?v=KOOkoH9jpKM)
+[Example Video ](https://www.youtube.com/watch?v=KOOkoH9jpKM)
 -[ Fire ](https://www.youtube.com/shorts/TXOvpcaWYJA)
 -[ Plasma ](https://www.youtube.com/shorts/llILyVM4B7A)
 ![IMAGE ALT TEXT HERE](documentation/hexCube_a.png)
